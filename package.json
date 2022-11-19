@@ -1,0 +1,45 @@
+{
+  "name": "google-stock-realtime",
+  "version": "1.1.1",
+  "description": "Real time stock information from trusted google source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Google Stocks",
+    "Stocks",
+    "Realtime API",
+    "Realtime",
+    "API",
+    "Google Stock API",
+    "Google Stocks API",
+    "API",
+    "Realtime Stock Data",
+    "Realtime Stock",
+    "Free Stock Data",
+    "Free Stock API",
+    "Stock Information",
+    "Stock API",
+    "Stock",
+    "Free API",
+    "Google API",
+    "Finance API",
+    "Latest Stock Price",
+    "Latest Stock Profit Loss Percentage",
+    "Profit Loss Percentage",
+    "Today value",
+    "Stock Realtime",
+    "real-time stock",
+    "Multiple Stock"
+  ],
+  "author": "Vinay Guda <vinayguda05@gmail.com> (https://gudavinay.github.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https: //github.com/gudavinay/google-stock-realtime.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
